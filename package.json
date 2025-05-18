@@ -1,0 +1,20 @@
+{
+  "name": "system-logger-file-watcher-cli",
+  "version": "1.0.0",
+  "description": "System Logger &amp; File Watcher CLI",
+  "main": "sysSummary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouthamSomaraju/System-Logger-File-Watcher-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GouthamSomaraju/System-Logger-File-Watcher-CLI/issues"
+  },
+  "homepage": "https://github.com/GouthamSomaraju/System-Logger-File-Watcher-CLI#readme"
+}
